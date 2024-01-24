@@ -1,0 +1,4 @@
+Draws two correct conclusions or comparisons from the calculations
+	charter school is the top 5 for the overall passing and district school is the bottom 5.
+	charter school is better in math, reading and overall passing than district school.
+	most of the students under spending ranges 585 has got better marks compare to other ranges
