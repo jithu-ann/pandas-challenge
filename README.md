@@ -179,6 +179,6 @@ Create a new DataFrame called type_summary that uses the new column data (2 poin
 Written Report (15 points)
 To receive all points, the written report presents a cohesive written analysis that:
 
-Summarizes the analysis (5 points)
+Summarizes the analysis (5 points).
 
 Draws two correct conclusions or comparisons from the calculations (10 points).
